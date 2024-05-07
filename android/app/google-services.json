@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "735213964913",
+    "project_id": "sakny-c00c7",
+    "storage_bucket": "sakny-c00c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735213964913:android:e9fb6557b4c145b66ed5d0",
+        "android_client_info": {
+          "package_name": "com.example.sakny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735213964913-0uqqseqacf2tlbofpjkbe7btvirb9s6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sakny",
+            "certificate_hash": "b92c5f3cdc3fad23dc90217ddc0986ce72f19d05"
+          }
+        },
+        {
+          "client_id": "735213964913-o6cmopm6jthb2cuv010v8au14aii69uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGF1ly45x7UnElRhiBlceMMyMHRN0qqe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735213964913-o6cmopm6jthb2cuv010v8au14aii69uj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735213964913-0pmm26i7je01bdnv8hsc97fqnn4qp2ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.saknyapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735213964913:android:5652aed31ac2645a6ed5d0",
+        "android_client_info": {
+          "package_name": "com.example.saknyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735213964913-o6cmopm6jthb2cuv010v8au14aii69uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGF1ly45x7UnElRhiBlceMMyMHRN0qqe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735213964913-o6cmopm6jthb2cuv010v8au14aii69uj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735213964913-0pmm26i7je01bdnv8hsc97fqnn4qp2ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.saknyapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
